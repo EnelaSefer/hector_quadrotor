@@ -1,5 +1,5 @@
 //=================================================================================================
-// Copyright (c) 2018, Enela Sefer, ETF Sarajevo
+// Copyright (c) 2013, Johannes Meyer, TU Darmstadt
 // All rights reserved.
 
 // Redistribution and use in source and binary forms, with or without
@@ -25,8 +25,6 @@
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 // SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //=================================================================================================
-
-// This code is based on quadrotor_propulsion.cpp code from Johannes Meyer, TU Darmstadt 
 
 #include <hector_octorotor_model/octorotor_propulsion.h>
 #include <hector_octorotor_model/helpers.h>
